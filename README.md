@@ -1,2 +1,2 @@
 # Analyzing-Crime-in-LA
-Analyzed crime dataset to get some insights.
+Analyzed the  dataset to get some insights regarding crimes in LA.
